@@ -1,0 +1,1 @@
+!python train_IEMOCAP.py --dropout 0.4 --lr 0.0003 --batch-size 32 --class-weight --l2 0.0
